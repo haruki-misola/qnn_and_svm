@@ -1,0 +1,1 @@
+代码中原始的数据creditcard由于过大，无法在github上上传。可自行在jupyterhub内上传，也可以直接使用处理完成之后，输入到模型的train和test。
